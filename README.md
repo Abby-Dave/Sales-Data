@@ -5,11 +5,12 @@ This data is based on the sales of a companys' product sales, customers response
 This is a data i got from an open sources, the questions were generated from chat gpt, each questions were selected to mirrror real life situations, and to prove analytical skills
 
 ## Tools Used
-- Ms Excel (Download Here)(https://wwww.microsoftexcel.com)
+- Ms Excel [Download here](https://www.microsoft.com)
 - For Data Extraction
 - For Data Transformation
   - Pivot Table for Data Summarization
   - Charts for Data Visualization
+  - Slicer for specific selections
  
 ## Questions asked
 - What is the Total sales?
@@ -25,3 +26,4 @@ This is a data i got from an open sources, the questions were generated from cha
 - Number of state with the highest number?
 - What is the most common customer segments?
 - Number of sales by Ship Mode?
+- What is the highest average discount by product category?
