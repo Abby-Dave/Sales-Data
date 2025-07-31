@@ -25,5 +25,10 @@ This is a data i got from an open sources, the questions were generated from cha
 - Total Number of order made per customer?
 - Number of state with the highest number?
 - What is the most common customer segments?
-- Number of sales by Ship Mode?
+- Number of sales by Ship Mode
+
 - What is the highest average discount by product category?
+
+# Analysis
+
+[May '25 - Webinar Data.xlsx](https://github.com/user-attachments/files/21532937/May.25.-.Webinar.Data.xlsx)
