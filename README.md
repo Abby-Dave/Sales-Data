@@ -12,15 +12,16 @@ This is a data i got from an open sources, the questions were generated from cha
   - Charts for Data Visualization
  
 ## Questions asked
-- What is the total sales?
-- What is the total quality?
+- What is the Total sales?
+- What is the Total quality?
 - What is the total profit made?
 - What are the total sales and profit for each region?
-- What Sales has the highest total sales?
 - What city has the highest number of order?
-- What is the most common customer segment?
 - What is the average sales per order?
-- What is the Top 5 products by total sales?
-- What is the total sales and profit by each region manager?
+- What is the sales and profit by region Manager
 - How does Profit affect discount? Here i listed out all profits made without discounts being given out to customers and profits made with discount issued to customers to show the significant of discounts without profits and then i visualized it using charts
-- 
+- What is the top 5 product sales?
+- Total Number of order made per customer?
+- Number of state with the highest number?
+- What is the most common customer segments?
+- Number of sales by Ship Mode?
